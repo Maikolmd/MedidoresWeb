@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\MedidoresWeb\MedidoresModel\obj\Debug\MedidoresModel.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\MedidoresWeb\MedidoresModel\bin\Debug\MedidoresModel.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\MedidoresWeb\MedidoresModel\bin\Debug\MedidoresModel.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\MedidoresWeb\MedidoresModel\obj\Debug\MedidoresModel.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\MedidoresWeb\MedidoresModel\obj\Debug\MedidoresModel.pdb
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresModel\bin\Debug\MedidoresModel.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresModel\bin\Debug\MedidoresModel.pdb
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresModel\obj\Debug\MedidoresModel.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresModel\obj\Debug\MedidoresModel.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresModel\obj\Debug\MedidoresModel.pdb

@@ -1,0 +1,88 @@
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\csc.exe
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\vbc.exe
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.dll
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.pdb
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.dll
+c:\users\pc\documents\visual studio 2015\Projects\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\MedidoresModel.dll
+C:\Users\pc\Documents\Visual Studio 2015\Projects\MedidoresWeb\MedidoresWeb\bin\MedidoresModel.pdb
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\csc.exe
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\vbc.exe
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.dll.config
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.dll
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.pdb
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\MedidoresModel.dll
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\MedidoresModel.pdb
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.dll
+C:\Users\pc\Desktop\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.pdb
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.pdb
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\csc.exe
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\vbc.exe
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.dll.config
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.pdb
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\MedidoresModel.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\MedidoresModel.pdb
+C:\Users\pc\Desktop\EV_2 WS2012\Logs\MedidoresWeb\MedidoresWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\csc.exe
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\System.Collections.Immutable.dll
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\System.Reflection.Metadata.dll
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\vbc.exe
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\VBCSCompiler.exe
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\roslyn\VBCSCompiler.exe.config
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.dll.config
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.dll
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\MedidoresWeb.pdb
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\MedidoresModel.dll
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\MedidoresModel.pdb
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.csprojResolveAssemblyReference.cache
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.dll
+G:\INACAP2019\Programacion Avanzada\MedidoresWeb\MedidoresWeb\obj\Debug\MedidoresWeb.pdb
